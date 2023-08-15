@@ -1,5 +1,4 @@
-- 👋 Heyy! I’m @KrishnamAbhina. 
-
-- 👩‍💻 A Computer Science Student...
+                              👋 Heyy! I’m @KrishnamAbhina.         
+- 👩‍💻 A Computer Science Student.
 
 
