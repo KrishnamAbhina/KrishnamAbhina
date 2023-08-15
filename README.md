@@ -2,10 +2,10 @@
 <h3 align="center">A Computer Science Student from Amrita Vishwa Vidyapeetham</h3>
 
 <h3 align="left">About myself:</h3>
-- 🔭 I’m currently working on **DBMS project**
+
 
 - 🌱 I’m currently learning **Advanced Programming**
-
+- 🔭 I’m currently working on <b>DBMS project</b>
 - 📫 How to reach me **krishnamabhina@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
