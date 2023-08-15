@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Abhina Krishnam</h1>
-<br>
+
 <h3 align="center">A Computer Science Student from Amrita Vishwa Vidyapeetham</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnamabhina&label=Profile%20views&color=0e75b6&style=flat" alt="krishnamabhina" /> </p>
