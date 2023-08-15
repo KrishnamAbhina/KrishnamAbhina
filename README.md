@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhina Krishnam</h1>
 <h3 align="center">A Computer Science Student from Amrita Vishwa Vidyapeetham</h3>
-
+<hr>
+<h3 align="left">About myself:</h3>
 - 🔭 I’m currently working on **DBMS project**
 
 - 🌱 I’m currently learning **Advanced Programming**
