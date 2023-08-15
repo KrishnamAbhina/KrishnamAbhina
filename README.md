@@ -1,12 +1,9 @@
-<h1 align="center">Hey 👋, I'm Abhina Krishnam</h1>
-
+<h1 align="center">Hi 👋, I'm Abhina Krishnam</h1>
 <h3 align="center">A Computer Science Student from Amrita Vishwa Vidyapeetham</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnamabhina&label=Profile%20views&color=0e75b6&style=flat" alt="krishnamabhina" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishnamabhina" alt="krishnamabhina" /></a> </p>
-
 - 🔭 I’m currently working on **DBMS project**
+
+- 🌱 I’m currently learning **Advanced Programming**
 
 - 📫 How to reach me **krishnamabhina@gmail.com**
 
