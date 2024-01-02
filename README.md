@@ -4,8 +4,7 @@
 <h3 align="left">About myself:</h3>
 
 
-- 🌱 I’m currently learning **Advanced Programming**
-- 🔭 I’m currently working on <b>DBMS project</b>
+
 - 📫 How to reach me **krishnamabhina@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
